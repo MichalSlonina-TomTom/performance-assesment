@@ -11,7 +11,7 @@ Applies the principles of software engineering to the design, development, maint
 
 **Additional details:**
 - Fundamental understanding of the Technical Skills of a Software Engineer through college education or personal study.
-- 1–2 years of software engineering experience (and less than 4 years), or Ph.D. in a software-related field with little or no professional experience (less than 2 years).
+- 1–2 years of software engineering experience (and less than 4 years) or Ph.D. in a software-related field with little or no professional experience (less than 2 years).
 
 ## Problem Solving
 - Performs a range of mainly straightforward assignments.
@@ -35,7 +35,7 @@ Applies the principles of software engineering to the design, development, maint
 - Works with a moderate level of guidance.
 
 **Additional details:**
-- A significant portion of time is spent writing code to deliver individual component improvements that meet customers' needs.
+- A significant portion of time is spent writing code to deliver individual component improvements that meet the customers' needs.
 - Code reviews are often rapid and uneventful. Provides useful code reviews for changes submitted by others.
 - Actively contributes to on-call and process improvements (OE) within the team.
 
