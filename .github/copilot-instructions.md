@@ -14,6 +14,10 @@ This repository contains TomTom's performance assessment framework and related m
     - `leadership.md`
     - `capabilities_and_development.md`
     - `impact.md`
+  - `performance_expectations/` - Level-specific role expectations
+    - `README.md` - Overview and guide to performance expectations
+    - `software_engineering_level_3.md` - Software Engineer II expectations
+    - `software_engineering_level_4.md` - Software Engineer IV expectations
 - `goals/` - Performance goals and objectives
 - `self_evaluations/` - Self-assessment materials
 

@@ -14,3 +14,4 @@ In addition to that TomTom'ers should adhere to the [core principles](./principl
 ## Resources
 
 - [Self-Assessment FAQ](./self_assesment_faq.md) - Best practices for completing your self-assessment
+- [Performance Expectations](./performance_expectations/README.md) - Level-specific role expectations and responsibilities
