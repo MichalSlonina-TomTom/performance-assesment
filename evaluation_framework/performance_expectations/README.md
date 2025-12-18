@@ -4,6 +4,7 @@ This directory contains detailed performance expectations for different software
 
 ## Available Levels
 
+- [Software Engineering Level 2](./software_engineering_level_2.md) - Software Engineer I
 - [Software Engineering Level 3](./software_engineering_level_3.md) - Software Engineer II
 - [Software Engineering Level 4](./software_engineering_level_4.md) - Software Engineer IV
 
