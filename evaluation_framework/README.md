@@ -9,4 +9,8 @@ equal weight:
 - [Capabilities and development](./pillars/capabilities_and_development.md)
 - [Impact](./pillars/impact.md)
 
-In addition to that TomTomers should adhere to the [core principles](./principles.md).
+In addition to that TomTom'ers should adhere to the [core principles](./principles.md).
+
+## Resources
+
+- [Self-Assessment FAQ](./self_assesment_faq.md) - Best practices for completing your self-assessment

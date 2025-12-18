@@ -9,6 +9,7 @@ This repository contains TomTom's performance assessment framework and related m
 - `evaluation_framework/` - Performance evaluation framework documentation
   - `principles.md` - Core principles for all TomTom'ers
   - `README.md` - Main framework overview with three pillars
+  - `self_assesment_faq.md` - Self-assessment FAQ and best practices
   - `pillars/` - Detailed pillar documentation
     - `leadership.md`
     - `capabilities_and_development.md`

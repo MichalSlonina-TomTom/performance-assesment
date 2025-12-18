@@ -14,6 +14,7 @@ TomTom's performance management framework empowers every TomTom'er to take the l
     - [Leadership](evaluation_framework/pillars/leadership.md)
     - [Capabilities and Development](evaluation_framework/pillars/capabilities_and_development.md)
     - [Impact](evaluation_framework/pillars/impact.md)
+  - [Self-Assessment FAQ](evaluation_framework/self_assesment_faq.md) - Best practices for completing your self-assessment
 
 - **goals/** - Performance goals and objectives
 - **self_evaluations/** - Self-assessment materials
